@@ -33,7 +33,6 @@ int main()
 	
 
 
-
 	/*Bir alışveriş hesaplayıcı programı geliştiriniz. Kullanıcıdan bir ürün adı (string), adedi (int) ve birim fiyatını (float) alınız.
 	Toplam tutarı hesaplayarak sonuçları düzenli bir şekilde ekrana yazdırınız.
 	Çıktınızda tab (\t) karakteri ile hizalama yapınız, çift tırnak (") kullanınız ve ters eğik çizgi (\) karakterini gösteriniz.

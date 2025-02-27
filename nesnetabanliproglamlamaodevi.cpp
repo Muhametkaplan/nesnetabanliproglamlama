@@ -14,16 +14,16 @@ int main()
 	float boy;
 	char cinsiyet;
 
-	cout << "---- KULLANICI BİLGİLERİ ----\n";
-	cout << "- Adınızı Girin: ";
+	cout << "- KULLANICI BİLGİLERİ -\n";
+	cout << " Adınızı Girin: ";
 	cin >> ad;
-	cout << "- Soyadınızı Girin: ";
+	cout << " Soyadınızı Girin: ";
 	cin >> soyad;
-	cout << "- Boyunuzu Metre Cinsinden Girin: ";
+	cout << " Boyunuzu Metre Cinsinden Girin: ";
 	cin >> boy;
-	cout << "- Yaşınızı Girin: ";
+	cout << " Yaşınızı Girin: ";
 	cin >> yas;
-	cout << "- Cinsiyetinizi Girin: ";
+	cout << " Cinsiyetinizi Girin: ";
 	cin >> cinsiyet;
 	cout << "\n\n\n";
 
@@ -43,12 +43,12 @@ int main()
 	int adet;
 	float bfiyat;
 
-	cout << "---- ALISVERIS HESAPLAMA ----\n";
-	cout << "- Urun Adini Girin: ";
+	cout << "- ALISVERIS HESAPLAMA -\n";
+	cout << " Urun Adini Girin: ";
 	cin >> urun;
-	cout << "- Urun Adedi Girin: ";
+	cout << " Urun Adedi Girin: ";
 	cin >> adet;
-	cout << "- Birim Fiyati Girin: ";
+	cout << " Birim Fiyati Girin: ";
 	cin >> bfiyat;
 	cout << "\n\n\n";
 
@@ -67,7 +67,7 @@ int main()
 
 	float celcius, fahrenheit;
 
-	cout << "---- Sicaklik Donusum Programi ----\n";
+	cout << "- Sicaklik Donusum Programi -\n";
 	cout << "Hesaplama Formulu:\"F=(C*1.8)+32\"\n";
 	cout << "Santigrat (Celsius) derecesini Girin: ";
 	cin >> celcius;
